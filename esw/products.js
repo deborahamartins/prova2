@@ -29,6 +29,7 @@ function listar() {
         console.log(p)
     })
 }
+produtos.forEach(listar)
 
 
 
